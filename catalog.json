@@ -1,14 +1,14 @@
 {
- "bundle_version": 1,
- "updated": "2026-11-17 12:45 JST",
- "entries": [
+ "version": 2,
+ "updated": "2026-11-17 13:15 JST",
+ "models": [
   {
    "name": "n3",
-   "desc": "s12_turnfoe_3840 公開版(2026-11-15)"
+   "desc": "s12_turnfoe_3840 現在公開中のモデル (2026-11-15)"
   },
   {
    "name": "n2",
-   "desc": "s11b_1080 旧公開版(2026-11-13)"
+   "desc": "s11b_1080 以前のモデル (2026-11-13)"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "version": 8,
- "updated": "2026-11-22 19:28 JST",
+ "version": 9,
+ "updated": "2026-11-22 21:30 JST",
  "models": [
   {
    "name": "n4",
@@ -12,7 +12,7 @@
   },
   {
    "name": "2C型",
-   "desc": "2C主体で戦う（試験中）"
+   "desc": "2C主体で戦う"
   },
   {
    "name": "n3",
